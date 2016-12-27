@@ -54,8 +54,8 @@ If you discover any security related issues, please email :author_email instead 
 
 ## Credits
 
-- [:author_name][link-author]
-- [All Contributors][link-contributors]
+- [:author_name](https://github.com/:author_username)
+- [All Contributors](https://github.com/thephpleague/:package_name/contributors)
 
 ## License
 
